@@ -1,0 +1,17 @@
+.listcontainer {
+    margin-top:100px;
+}
+
+.btn-success{
+    margin-left: 20px;
+    width: 70px;
+}
+
+.btnEdit{
+    color: white;
+}
+
+.btnEdit:hover{
+    color: white;
+    text-decoration: none;
+}

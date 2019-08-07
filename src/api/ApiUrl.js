@@ -1,0 +1,1 @@
+export let url = 'http://localhost:31374/sunuImmoBack'
